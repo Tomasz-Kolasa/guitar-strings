@@ -1,4 +1,6 @@
 # guitar-strings
 An app for learning and mastering strumming guitar strings.
 
-Check out the app <a href="http://guitar-strings.c1.biz/" target="_blank">here</a>.
+This small project was created using HTML, CSS and JavaScript.
+
+Check out the app <a href="https://guitar-strings.besoftware.pro" target="_blank">here</a>.
